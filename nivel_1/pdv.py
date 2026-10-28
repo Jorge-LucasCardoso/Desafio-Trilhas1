@@ -1,6 +1,6 @@
 
 
-historico = []  # cada compra: [valor_original, idade, valor_final]
+historico = []  
 
 print("=== PDV com Descontos ===")
 print("Digite 0 no valor da compra para encerrar.\n")
